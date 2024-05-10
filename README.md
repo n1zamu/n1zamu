@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**n1zamu/n1zamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💙 Hi! I am n1zamu
+🌙 I’m currently learning Java
 
-Here are some ideas to get you started:
+👨‍💻 All of my projects are available at https://github.com/n1zamu
+### Programming Languages:
+[![Java](https://img.shields.io/badge/-Java-FFA500?style=for-the-badge&logo=java&logoColor=0000CD)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minecraft Libraries:
+[![Forge](https://img.shields.io/badge/-Forge-8A2BE2?style=for-the-badge)]
+[![Bukkit](img.shields.io/badge/-Bukkit-090909?style=for-the-badge)]
+
+### My Socials:
+🔵 Connect with me:
+[![Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)]
+[![GMail](https://img.shields.io/badge/-GMail-090909?style=for-the-badge&logo=gmail&logoColor=DC143C)]
