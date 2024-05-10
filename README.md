@@ -1,4 +1,4 @@
-### 💙 Hi! I am n1zamu
+# 💙 Hi! I am n1zamu
 
 🌙 I’m currently learning Java
 
