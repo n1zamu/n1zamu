@@ -4,7 +4,7 @@
 
 👨‍💻 All of my projects are available at https://github.com/n1zamu
 
-![Header](https://github.com/n1zamu/n1zamu/blob/main/assets/konata.jpg)
+![Header](https://github.com/n1zamu/n1zamu/blob/main/assets/header.gif)
 
 ## Programming Languages:
 
