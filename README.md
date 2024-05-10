@@ -1,10 +1,10 @@
-![Header](https://github.com/n1zamu/n1zamu/blob/main/assets/konata.jpg)
-
 ### 💙 Hi! I am n1zamu
 
 🌙 I’m currently learning Java
 
 👨‍💻 All of my projects are available at https://github.com/n1zamu
+
+![Header](https://github.com/n1zamu/n1zamu/blob/main/assets/konata.jpg)
 
 ### Programming Languages:
 
