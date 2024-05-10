@@ -6,17 +6,17 @@
 
 ![Header](https://github.com/n1zamu/n1zamu/blob/main/assets/konata.jpg)
 
-### Programming Languages:
+## Programming Languages:
 
 ![Java](https://img.shields.io/badge/-Java-FFA500?style=for-the-badge&logo=java&logoColor=0000CD)
 
-### Minecraft Libraries:
+## Minecraft Libraries:
 
 ![Forge](https://img.shields.io/badge/-Forge-8A2BE2?style=for-the-badge)
 
 ![Bukkit](https://img.shields.io/badge/-Bukkit-090909?style=for-the-badge)
 
-### My Socials:
+## My Socials:
 🔵 Connect with me:
 
 ![Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)
