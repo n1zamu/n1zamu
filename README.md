@@ -1,4 +1,4 @@
-[![Header](https://github.com/n1zamu/n1zamu/blob/master/assets/konata.jpg)]
+![Header](https://github.com/n1zamu/n1zamu/blob/master/assets/konata.jpg)
 
 ### 💙 Hi! I am n1zamu
 
