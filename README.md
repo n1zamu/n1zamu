@@ -14,7 +14,7 @@
 
 ![Forge](https://img.shields.io/badge/-Forge-8A2BE2?style=for-the-badge)
 
-![Bukkit](https://img.shields.io/badge/-Bukkit-090909?style=for-the-badge)
+![Bukkit](https://img.shields.io/badge/-Bukkit-7B68EE?style=for-the-badge)
 
 ## My Socials:
 🔵 Connect with me:
