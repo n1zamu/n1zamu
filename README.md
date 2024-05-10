@@ -6,7 +6,6 @@
 
 ![Header](https://github.com/n1zamu/n1zamu/blob/main/assets/header.gif)
 
-![Line](https://github.com/n1zamu/n1zamu/blob/main/assets/sepparator.png)
 ### Programming Languages:
 🧡What programming languages I am learn:
 
