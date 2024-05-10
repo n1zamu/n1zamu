@@ -17,8 +17,8 @@
 
 ## Operating Systems:
 
-![Windows](https://img.shields.io/badge/-Windows-FF6347?style=for-the-badge&logo=windows&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-FFD700?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Windows](https://img.shields.io/badge/-Windows-FF6347?style=for-the-badge&logo=windows&logoColor=000000)
+![Linux](https://img.shields.io/badge/-Linux-FFD700?style=for-the-badge&logo=linux&logoColor=000000)
 
 ## My Socials:
 🔵 Connect with me:
