@@ -32,4 +32,4 @@
 ![Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)
 ![GMail](https://img.shields.io/badge/-GMail-090909?style=for-the-badge&logo=gmail&logoColor=DC143C)
 
-#⭐Leave stars on the projects that you liked!
+# ⭐Leave stars on the projects that you liked!
