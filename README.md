@@ -13,12 +13,15 @@
 ## Minecraft Libraries:
 
 ![Forge](https://img.shields.io/badge/-Forge-8A2BE2?style=for-the-badge)
-
 ![Bukkit](https://img.shields.io/badge/-Bukkit-7B68EE?style=for-the-badge)
+
+## Operating Systems:
+
+![Windows](https://img.shields.io/badge/-Windows-FF6347?style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FFD700?style=for-the-badge)
 
 ## My Socials:
 🔵 Connect with me:
 
 ![Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)
-
 ![GMail](https://img.shields.io/badge/-GMail-090909?style=for-the-badge&logo=gmail&logoColor=DC143C)
