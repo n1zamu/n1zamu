@@ -7,7 +7,7 @@
 ![Header](https://github.com/n1zamu/n1zamu/blob/main/assets/header.gif)
 
 ## Programming Languages:
-🧡What programming language I am learn:
+🧡What programming languages I am learn:
 
 ![Java](https://img.shields.io/badge/-Java-FFA500?style=for-the-badge&logo=java&logoColor=0000CD)
 
