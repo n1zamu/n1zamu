@@ -29,7 +29,7 @@
 
 ### My Stack:
 ✌ Different technologies that I use at work
-[![My Skills](https://skillicons.dev/icons?i=java,git,mysql,postgres,gradle,maven,sqlite&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,git,mysql,postgres,gradle,maven,sqlite)](https://skillicons.dev)
 
 ![Line](https://github.com/n1zamu/n1zamu/blob/main/assets/sepparator.png)
 
