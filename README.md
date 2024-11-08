@@ -40,7 +40,7 @@
 ### My Socials:
 🖤Connect with me:
 
-![[Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/channels/@me/1289341631543119932)
-![[GMail](https://img.shields.io/badge/-GMail-090909?style=for-the-badge&logo=gmail&logoColor=DC143C)](n1zamu@outlook.com)
+[![Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/channels/@me/1289341631543119932)
+[![GMail](https://img.shields.io/badge/-GMail-090909?style=for-the-badge&logo=gmail&logoColor=DC143C)](n1zamu@outlook.com)
 
 # ⭐Leave stars on the projects that you liked!
